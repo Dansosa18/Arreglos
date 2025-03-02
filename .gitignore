@@ -1,9 +1,9 @@
-# Ignorar archivos de compilación
+# Archivos de compilación
 *.class
 *.jar
 *.war
 
-# Ignorar archivos generados por el IDE (Ejemplo: IntelliJ, Eclipse, NetBeans)
+# Carpetas generadas por IDEs
 .idea/
 *.iml
 *.vscode/
@@ -11,12 +11,10 @@
 *.project
 *.classpath
 
-# Ignorar dependencias si usas Maven o Gradle
+# Carpetas de compilación
 target/
 build/
-*.log
 
-# Ignorar archivos del sistema
+# Archivos del sistema
 .DS_Store
 Thumbs.db
-
