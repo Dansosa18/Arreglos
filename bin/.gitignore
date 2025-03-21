@@ -1,0 +1,20 @@
+# Archivos de compilación
+*.class
+*.jar
+*.war
+
+# Carpetas generadas por IDEs
+.idea/
+*.iml
+*.vscode/
+*.settings/
+*.project
+*.classpath
+
+# Carpetas de compilación
+target/
+build/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
